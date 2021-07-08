@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and programming.
 - 🌱 I’m currently learning some js library's;like jQuery,etc.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : you can search me on Sololearn
+- 📫 How to reach me :you can search me on Instagram:@___anurag__saikia___,and you can email me at: (webdev.as.90@gmail.com) you can also find me on Sololearn
 : https://www.sololearn.com/profile/16699473
 And also in GitHub. 
                   Thank You.
