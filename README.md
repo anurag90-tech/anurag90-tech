@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @anurag90-tech aka Anurag Saikia.
 - 👀 I’m interested in web development and programming.
-- 🌱 I’m currently learning some js library's;like jQuery,etc.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :you can search me on Instagram:@____anurag___saikia____,and you can email me at: (anurag.saikia.7.axom@gmail.com) you can also find me on Sololearn
-: https://www.sololearn.com/profile/16699473
+- 🌱 I’m currently on a break from webdev and programming.
+- 📫 How to reach me :you can search me on Instagram: @____anurag___saikia____, Telegram: @AnuraagSaikia and you can email me at: (anurag.saikia.7.axom@gmail.com)
 And also in GitHub. 
                   Thank You.
 
